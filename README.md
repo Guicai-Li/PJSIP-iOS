@@ -10,7 +10,7 @@ PJSIP
 	└── includes
 </pre>
 
-### 如何使用
+### 如何手动使用
 
 > 1.导入PJSIP
 
@@ -39,6 +39,11 @@ Preprocessor Macros: PJ_AUTOCONF=1
 - AudioToolbox
 - AVFoundation
 
+### 如何使用Cocoapods导入
+
+<pre>
+pod 'PJSIP', :git => 'https://github.com/Guicai-Li/PJSIP-iOS.git'
+</pre>
 
 ###TODO: 
 
