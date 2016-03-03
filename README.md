@@ -10,6 +10,8 @@ PJSIP
 	└── includes
 </pre>
 
+备注:当前静态包支持i386 arm64 armv7 armv7s x86_64。
+
 ### 如何手动使用
 
 > 1.导入PJSIP
@@ -47,7 +49,6 @@ pod 'PJSIP', :git => 'https://github.com/Guicai-Li/PJSIP-iOS.git'
 
 ###TODO: 
 
-- Add cocoapods
 - shell脚本
 - 编译Guide以及demo
 - 文档
